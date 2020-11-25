@@ -1,4 +1,5 @@
 print("***** 100DaysOfPython - Dr Angela Yu *****")
+print("Hello world")
 print("""Day01 Project Exercise: 
 \tBand Name Generator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
